@@ -6,7 +6,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Conve
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Define your bot token here
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = 6309254401:AAEGIebxKmjFpdjZVeBD7nFYF9mqCTHTLqU
 
 # Define the states for conversation handler
 START, JOIN_GROUP = range(2)
